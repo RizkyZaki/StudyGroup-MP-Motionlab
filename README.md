@@ -21,3 +21,7 @@ Repositori ini adalah bagian dari **Study Group Mobile Programming**, yang bertu
 - Belajar dasar-dasar pemrograman mobile.
 - Memahami framework Flutter sebagai alat utama pengembangan aplikasi mobile.
 - tempat pengumpulan tugas MP Motion
+
+## Tugas
+
+Tugas Ada disetiap branch silahkan pilih branch yang sesuai dengan tugas
