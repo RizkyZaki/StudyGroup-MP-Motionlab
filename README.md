@@ -104,7 +104,7 @@ Widgets adalah elemen visual yang digunakan untuk membuat UI di Flutter. Semua e
 
 ## 🔨 **Konsep Widget Reusable**
 
-- **Reusable Widget**: Widget yang dibuat agar bisa digunakan kembali di beberapa tempat.
+- **Reusable Widget**: berikut contoh Widget yang dibuat agar bisa digunakan kembali di beberapa tempat.
 - Contoh:
 
   ```dart
@@ -139,5 +139,3 @@ Widgets adalah elemen visual yang digunakan untuk membuat UI di Flutter. Semua e
 
 ---
 
-**Author**: frisk zach  
-**License**: MIT
